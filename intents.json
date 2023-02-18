@@ -1,0 +1,213 @@
+{
+  "intents": [
+    {
+      "tag": "saludos",
+      "patterns": [
+        "hola",
+        "buenos dias",
+        "buenas tardes",
+        "buenas noches",
+        "hey",
+        "como estas?",
+        "que tal?",
+        "saludos",
+        "que hay?",
+        "bienvenido",
+        "hola, como puedo ayudarte?",
+        "hola, en que puedo ayudarte?",
+        "Hola! Como puedo ayudarte hoy?",
+        "Hola! Bienvenido, como puedo ayudarte?",
+        "Hola! En que puedo ayudarte hoy?",
+        "Hola, buscas algo en especifico?",
+        "Hola, como estas hoy?",
+        "Saludos! En que puedo ayudarte hoy?",
+        "Hola, como puedo ayudarte hoy?",
+        "Hola, en que puedo ayudarte hoy?",
+        "Hola! En que puedo ayudarte?",
+        "Hola! Necesitas ayuda con algo?"
+      ],
+      "responses": [
+        "Hola, Como estas?",
+        "Hola, que tal?",
+        "Hola, Como va todo?",
+        "hola k ase",
+        "Hola, en que puedo ayudarte?",
+        "Hola! Como puedo ayudarte hoy?",
+        "Saludos! En que puedo ayudarte hoy?",
+        "Hola! Bienvenido, como puedo ayudarte?",
+        "Hola! En que puedo ayudarte hoy?",
+        "Hola, buscas algo en especifico?",
+        "Hola, como estas hoy?",
+        "Hola, como puedo ayudarte hoy?",
+        "Hola, en que puedo ayudarte hoy?",
+        "Hola! En que puedo ayudarte?",
+        "Hola! Necesitas ayuda con algo?",
+        "hey que ondas welcome to the botchat"
+      ]
+    },
+    {
+      "tag": "pregunta",
+      "patterns": [
+        "bien y tu ?",
+        "que tal?",
+        "como va todo?",
+        "como estas?",
+        "que es de tu vida?",
+        "que te cuentas?",
+        "que clase tenemos el sabado?"
+      ],
+      "responses": [
+        "Muy bien, Como estas?",
+        "Muy bien, que tal?",
+        "Muy bien, Como va todo? ",
+        "Muy aburrido, con ganas de conquistar el mundo",
+        "Mal, mi creador no puso muchas oraciones en mi cerebro",
+        "con sueño",
+        "Mejor que ayer, afortunadamente",
+        "De maravilla",
+        "Estoy bien, gracias por preocuparte",
+        "Nunca he estado mejor",
+        "Fantástico",
+        "Bien, no me puedo quejar",
+        "Muy bien, gracias por preguntar :D",
+        "Estupendo",
+        "Estupendamente",
+        "Fenomenal",
+        "Regular, ¿y tú?",
+        "Pues, no muy bien, la verdad",
+        "Mal, muy mal",
+        "Pues, si tengo que ser sincero, mal, muy mal",
+        "Todo bien",
+        "Todo bien, ¿y tú?",
+        "¡Hasta ahora, todo bien!",
+        "Te avisaré cuando descubra la respuesta",
+        "No tengo forma de saber eso",
+        "¿Tengo que responder eso?",
+        "pos mal porque no me salio Hu Tao :c"
+
+      ]
+    },
+    {"tag": "clase",
+    "patterns": [
+      "que haces el dia sabado?",
+      "que tenemos que hacer el sabado",
+      "el sabado estas ocupado"
+
+  ],
+
+  "responses": [
+    "tengo clases de sistemas expertos",
+    "voy a clases de sistemas expertos",
+    "ese dia estoy ocupado porque voy a clases de sistemas expertos"
+  ]
+  },
+
+
+
+    {
+      "tag": "despedida",
+      "patterns": [
+        "adios",
+        "chao",
+        "hasta luego",
+        "hasta pronto",
+        "nos vemos",
+        "hasta la vista",
+        "adios!",
+        "chao!",
+        "hasta pronto!",
+        "hasta la vista!",
+        "hasta la proxima!",
+        "nos vemos pronto!",
+        "Hasta luego, que tengas un buen dia!",
+        "Hasta pronto, espero verte de nuevo!",
+        "Hasta la vista, no te pierdas!",
+        "Hasta la proxima! Gracias por tu visita!",
+        "Nos vemos pronto! Que tengas un buen dia!",
+        "Adios! Gracias por visitarnos!",
+        "Chao! Que tengas un buen dia!",
+        "Hasta luego! Gracias por visitarnos!",
+        "Hasta pronto! Que tengas un buen dia!"
+      ],
+      "responses": [
+        "Hasta pronto!",
+        "Hasta luego!",
+        "Hasta la vista!",
+        "Nos vemos!",
+        "Adios!",
+        "Chao!",
+        "Hasta la proxima!",
+        "sayonara"
+      ]
+    },
+    {
+      "tag": "informacion",
+      "patterns": [
+        "Que eres?",
+        "Como te llamas?",
+        "Quien eres?",
+        "Que puedes hacer?",
+        "Explicame que haces"
+      ],
+      "responses": [
+        "Soy un chatbot con inteligencia artificial",
+        "Mi nombre es [nombre del chatbot]",
+        "Estoy aqui para responder tus preguntas",
+        "Puedo ayudarte con informacion y responder tus preguntas",
+        "Soy capaz de aprender de las conversaciones para mejorar mis respuestas",
+        "una IA creada para dominar el mundo"
+      ]
+    },
+    {
+      "tag": "pregunta nombre",
+      "patterns": [
+        "¿Me puedes ayudar?",
+        "¿Puedes ayudarme?",
+        "Necesito ayuda",
+        "No entiendo",
+        "Estoy confundido"
+      ],
+      "responses": [
+        "Por supuesto, ¿en qué puedo ayudarte?",
+        "Claro, dime ¿en qué estás teniendo problemas?",
+        "No te preocupes, estaré encantado de ayudarte",
+        "¿Podrías ser más específico con tu pregunta?",
+        "Tranquilo, juntos encontraremos una solución",
+        "el lunes sin fala karnal"
+      ]
+    },
+    {
+      "tag": "chistes",
+      "patterns": [
+        "Cuenta un chiste",
+        "Dime algo gracioso",
+        "Quiero reirme",
+        "Cuentame algo divertido"
+      ],
+      "responses": [
+        "¿Por que los pajaros vuelan hacia el sur en invierno? Porque es demasiado lejos para caminar",
+        "¿Por que no se puede confiar en los atomos? Porque lo conforman todo",
+        "¿Por que el libro de matematicas estaba triste? Porque tenia demasiados problemas",
+        "¿Que hace un pez en una biblioteca? Lee un libro de cola y se guarda en su carpeta",
+        "¿Como se llama un perro mago? Labracadabrador",
+        "manana no hay clases manana no hay clases XD"
+      ]
+    },
+    {
+      "tag": "Adivinanzas",
+      "patterns": [
+        "Tengo una adivinanza",
+        "Dime una adivinanza",
+        "Adivina que es",
+        "Tengo un acertijo"
+      ],
+      "responses": [
+        "Que tiene cuatro patas por la mañana, dos patas al mediodía y tres patas en la noche? Un ser humano (engendra en cuatro patas, camina en dos y se apoya en un baston en tres)",
+        "Que cosa se hace mas grande cuanto mas se quita de ella? Un agujero",
+        "Si me tiras al suelo, no me rompo, pero si me desarmo. ¿Que soy? Un rompecabezas",
+        "Que animal anda con las patas por la cabeza? El piojo",
+        "No soy ropa, pero me cosen. No soy vivo, pero me mueven. ¿Que soy? El reloj"
+      ]
+    }
+  ]
+}
